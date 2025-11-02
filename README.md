@@ -54,6 +54,7 @@ Pandas, NumPy
 
 Matplotlib, Seaborn (for visualization)
 
+
 📊 Model Evaluation
 
 The model uses standard evaluation metrics:
@@ -66,12 +67,13 @@ Confusion Matrix — detailed performance visualization
 
 Example Output:
 ✅ Model Evaluation Results:
-Accuracy: 0.79
+Accuracy: 0.79  
 Precision: 0.82
 Recall: 0.77
 F1-Score: 0.79
 
 💹 Model Suggests: BUY Tomorrow
+
 
 🧩 How It Works (Real-Time Example)
 
